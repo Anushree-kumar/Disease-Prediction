@@ -6,3 +6,13 @@ Disease Prediction using Machine Learning is the system that is used to predict 
 ### Objective
 To make best effort to make world a better place by applying knowledge in different fields.      
 
+### Dataset 
+https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning
+
+### Content
+Complete Dataset consists of 2 CSV files . One of them is training and other is for testing your model.
+Each CSV file has 133 columns. 132 of these columns are symptoms that a person experiences and last column is the prognosis.
+These symptoms are mapped to 42 diseases you can classify these set of symptoms to.
+
+
+
